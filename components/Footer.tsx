@@ -19,9 +19,9 @@ const Footer = () => {
             Thank you for visiting my portfolio!
           </h1>
           <p className='text-center w-full md:w-[75%] lg:w-[50%] mt-4 md:mt-6 lg:mt-9 text-white-200  text-base md:text-lg lg:text-xl font-extralight'>
-            I'm passionate about bringing ideas to life through code and design. If you’re ready to elevate your digital presence or have a project in mind, I’d love to hear from you. This footer serves as a gateway for you to connect with me—whether it’s to discuss potential collaborations, share feedback, or just say hello.
+            I&apos;m passionate about bringing ideas to life through code and design. If you&apos;re ready to elevate your digital presence or have a project in mind, I&apos;d love to hear from you. This footer serves as a gateway for you to connect with me—whether it&apos;s to discuss potential collaborations, share feedback, or just say hello.
 
-            You’ll find all the essential links to my social profiles and contact information here. I’m always open to new opportunities and eager to contribute to exciting projects. Let’s create something amazing together!
+            You&apos;ll find all the essential links to my social profiles and contact information here. I&apos;m always open to new opportunities and eager to contribute to exciting projects. Let&apos;s create something amazing together!
           </p>
 
           <a href="mailto:shulinagarwal22@gmaikl.com" className="mt-6 md:mt-8 lg:mt-10">
