@@ -42,7 +42,7 @@ const Approach = () => {
      <div className="py-20 flex flex-col lg:flex-row items-center justify-center bg-white dark:bg-black w-full gap-4 mx-auto px-8">
     <Card title="Planning and Strategy"
      icon={<GiAbstract031 className="h-24 w-24 text-white"/>}
-     description="In my approach to every project, I place a strong emphasis on detailed planning and strategic thinking. I begin by thoroughly understanding the project's objectives, target audience, and unique requirements. From there, I develop a clear roadmap that outlines the necessary steps, resources, and timelines to achieve the desired outcomes."
+     description="In my approach to every project, I place a strong emphasis on detailed planning and strategic thinking. I begin by thoroughly understanding the project&apos;s objectives, target audience, and unique requirements. From there, I develop a clear roadmap that outlines the necessary steps, resources, and timelines to achieve the desired outcomes."
 
      >
       <CanvasRevealEffect
