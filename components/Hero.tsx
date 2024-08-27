@@ -58,7 +58,7 @@ const Hero = () => {
         <TypewriterEffect words={words}
         className='mt-10' />
         <p className='text-center md:tracking-wider mt-10 text-sm md:text-md lg:text-lg text-neutral-400 '>
-        I'm Shulin, a passionate Next.js developer with a deep understanding of Advanced Java, committed to crafting seamless and innovative web solutions.
+        I&apos;m Shulin, a passionate Next.js developer with a deep understanding of Advanced Java, committed to crafting seamless and innovative web solutions.
         </p>
      
             <Link href='#Projects' className='mt-10' >
